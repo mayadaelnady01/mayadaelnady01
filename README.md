@@ -7,10 +7,10 @@
 
 <p align="center">
     <a href="mailto:mayadaelnady01@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        <img width="50" height="50 src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/mayada-elnady/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img width="50" height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn">
     </a>
 </p>
 
