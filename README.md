@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="mailto:mayadaelnady01@gmail.com">
-        <img width="50" height="50 src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Gmail">
+        <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/mayada-elnady/">
         <img width="50" height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn">
