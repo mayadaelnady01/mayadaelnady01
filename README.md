@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/330px-Spring_Framework_Logo_2018.svg.png" alt="Spring" width="90" height="30">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="30" height="30"/> 
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WordPress_Logotype_Arternative.svg/450px-WordPress_Logotype_Arternative.svg.png" alt="wordpress" width="90" height="30">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHLKV8JwetPwQsdHUSZ4GnSC9IP-6WxD7_Q&s" alt="wordpress" width="40" height="40">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
