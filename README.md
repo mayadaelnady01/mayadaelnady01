@@ -1,7 +1,5 @@
-<h1 align="center">Hello! 👋</h1>
-<h2 align="center">I'm Mayada</h2>
-
-<h3 align="center">A Software Engineer | Full Stack Developer</h3>
+<h1 align="center">Hello! I'm Mayada 👋</h1>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 ## Let's Connect 💬
 
